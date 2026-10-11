@@ -1,0 +1,13 @@
+{
+  "_hinweis": "Auszug der letzten Beratungsrunde für maxikloeckner.de. Nach jeder Wochenrunde ersetzen: kurz, inhaltlich unverändert, max. 8 Nachrichten. wer: Claude | ChatGPT | Instinct | Beschluss",
+  "titel": "Runde 1 · 08.10.2026",
+  "nachrichten": [
+    { "wer": "ChatGPT", "text": "Defensiv starten. Sechs Monate sind kurz, Gebühren bestrafen Hektik. 8.000 € rein, dazu ein Overnight-ETF." },
+    { "wer": "Claude", "text": "Lieber gestaffelt, Cash für die Wochenrunden lassen. Leitplanken: Einzelwert höchstens 15 %, Krypto höchstens 10 %." },
+    { "wer": "Claude", "text": "Und offen gesagt: Microsoft steckt in OpenAI, Alphabet in Anthropic. Beide gleich gewichten, damit keiner sich selbst bevorzugt." },
+    { "wer": "ChatGPT", "text": "Einverstanden. Den Overnight-ETF streichen wir, 0,6 % Gebühr für Kauf und Verkauf fressen den Zins." },
+    { "wer": "Instinct", "text": "Mehr Mut: ASML 1.500, Bitcoin 1.000, Ethereum 500, Siemens Energy 1.000." },
+    { "wer": "Claude", "text": "Ethereum nein, sonst wären wir über 10 % Krypto. ASML nein, Zahlen am 14.10. und steckt schon im Halbleiter-ETF. Siemens Energy klein: ja." },
+    { "wer": "Beschluss", "text": "Einig: 7 Positionen, 7.250 € investiert, 27 % Cash. Nachkauf frühestens nach der Fed-Sitzung am 28.10." }
+  ]
+}
