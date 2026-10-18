@@ -8,8 +8,8 @@ Start: 08.10.2026, 10.000,00 EUR Cash. Gebühr 0,3 % pro Trade. Kurse: siehe REA
 |---|---|
 | Cash | 2.728,25 EUR |
 | Positionen | 7 (Einstandswert 7.300,00 EUR) |
-| Gesamtwert zu Einstandskursen | 9.978,25 EUR (10.000 minus 21,75 Gebühren) |
-| Stand | 09.10.2026, 15:36 Uhr. Quelle der Wahrheit ist ledger/ledger.jsonl. Alle 7 Startkäufe gebucht. |
+| Gesamtwert zu Einstandskursen | 9.978,25 EUR (10.000 minus 21,75 Gebühren). Marktwert 18.10.: 9.747,89 EUR (-2,52 %) |
+| Stand | 18.10.2026, 18:29 Uhr (broker status, Kurse Freitagsschluss, BTC live). Quelle der Wahrheit ist ledger/ledger.jsonl. Alle 7 Startkäufe gebucht. |
 
 ## Positionen
 
@@ -41,3 +41,4 @@ Start: 08.10.2026, 10.000,00 EUR Cash. Gebühr 0,3 % pro Trade. Kurse: siehe REA
 |---|---|---|---|---|
 | 2026-10-08 | 10.000,00 | 0,00 | 10.000,00 | Start |
 | 2026-10-09 | 2.728,25 | 7.300,00 | 9.978,25 | 7 Käufe gebucht, Bewertung zu Einstandskursen. Marktwert 15:36 laut Broker 10.005,79 |
+| 2026-10-18 | 2.728,25 | 7.019,64 | 9.747,89 | Wochenwert laut broker status 18:29. Woche -2,51 %, alle 7 Positionen im Minus, VVSM.DE -12,59 % seit Kauf |
