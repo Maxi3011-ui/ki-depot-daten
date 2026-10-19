@@ -8,8 +8,8 @@ Start: 08.10.2026, 10.000,00 EUR Cash. Gebühr 0,3 % pro Trade. Kurse: siehe REA
 |---|---|
 | Cash | 2.728,25 EUR |
 | Positionen | 7 (Einstandswert 7.300,00 EUR) |
-| Gesamtwert zu Einstandskursen | 9.978,25 EUR (10.000 minus 21,75 Gebühren). Marktwert 18.10.: 9.747,89 EUR (-2,52 %) |
-| Stand | 18.10.2026, 18:29 Uhr (broker status, Kurse Freitagsschluss, BTC live). Quelle der Wahrheit ist ledger/ledger.jsonl. Alle 7 Startkäufe gebucht. |
+| Gesamtwert zu Einstandskursen | 9.978,25 EUR (10.000 minus 21,75 Gebühren). Marktwert 19.10.: 9.798,60 EUR (-2,01 %) |
+| Stand | 19.10.2026, 19:15 Uhr (Snapshot #20, Kurse live). Quelle der Wahrheit ist ledger/ledger.jsonl. Alle 7 Startkäufe gebucht. |
 
 ## Positionen
 
