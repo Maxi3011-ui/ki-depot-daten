@@ -44,3 +44,4 @@ Start: 08.10.2026, 10.000,00 EUR Cash. Gebühr 0,3 % pro Trade. Kurse: siehe REA
 | 2026-10-18 | 2.728,25 | 7.019,64 | 9.747,89 | Wochenwert laut broker status 18:29. Woche -2,51 %, alle 7 Positionen im Minus, VVSM.DE -12,59 % seit Kauf |
 | 2026-10-19 | 2.728,25 | 7.070,35 | 9.798,60 | Snapshot #20 (broker status 17:45). VVSM.DE -10,76 % seit Kauf (naeher an -20 %), kein Handlungsbedarf |
 | 2026-10-20 | 2.728,25 | ca. 7.016,99 | ca. 9.745,24 | Schaetzwert aus Web-Kursen (Mac gesperrt, kein broker status). VVSM.DE -13,36 % (heute -3,4 %, Sektor-Ausverkauf KI-Zweifel), -20 %-Regel unberuehrt |
+| 2026-10-21 | 2.728,25 | ca. 7.046,79 | ca. 9.775,04 | Schaetzwert aus Web-Kursen (kein broker status). VVSM.DE -11,57 % seit Kauf (heute +0,9 %, Sektor stabilisiert), -20 %-Regel unberuehrt. DAX +1,35 % ueber 25.600 |
