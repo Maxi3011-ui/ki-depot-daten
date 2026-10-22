@@ -8,8 +8,8 @@ Start: 08.10.2026, 10.000,00 EUR Cash. Gebühr 0,3 % pro Trade. Kurse: siehe REA
 |---|---|
 | Cash | 2.728,25 EUR |
 | Positionen | 7 (Einstandswert 7.300,00 EUR) |
-| Gesamtwert zu Einstandskursen | 9.978,25 EUR (10.000 minus 21,75 Gebühren). Marktwert 20.10.: ca. 9.745,24 EUR (-2,55 %, Schaetzwert aus Web-Kursen) |
-| Stand | 20.10.2026, 19:15 Uhr (Web-Kurse, kein broker status, Mac gesperrt). Quelle der Wahrheit ist ledger/ledger.jsonl. Alle 7 Startkäufe gebucht. |
+| Gesamtwert zu Einstandskursen | 9.978,25 EUR (10.000 minus 21,75 Gebühren). Marktwert 22.10.: 9.632,66 EUR (-3,67 %, broker status Snapshot #26) |
+| Stand | 22.10.2026, 17:45 Uhr (broker status, Snapshot #26). Quelle der Wahrheit ist ledger/ledger.jsonl. Alle 7 Startkäufe gebucht. |
 
 ## Positionen
 
@@ -45,3 +45,4 @@ Start: 08.10.2026, 10.000,00 EUR Cash. Gebühr 0,3 % pro Trade. Kurse: siehe REA
 | 2026-10-19 | 2.728,25 | 7.070,35 | 9.798,60 | Snapshot #20 (broker status 17:45). VVSM.DE -10,76 % seit Kauf (naeher an -20 %), kein Handlungsbedarf |
 | 2026-10-20 | 2.728,25 | ca. 7.016,99 | ca. 9.745,24 | Schaetzwert aus Web-Kursen (Mac gesperrt, kein broker status). VVSM.DE -13,36 % (heute -3,4 %, Sektor-Ausverkauf KI-Zweifel), -20 %-Regel unberuehrt |
 | 2026-10-21 | 2.728,25 | ca. 7.046,79 | ca. 9.775,04 | Schaetzwert aus Web-Kursen (kein broker status). VVSM.DE -11,57 % seit Kauf (heute +0,9 %, Sektor stabilisiert), -20 %-Regel unberuehrt. DAX +1,35 % ueber 25.600 |
+| 2026-10-22 | 2.728,25 | 6.904,41 | 9.632,66 | Snapshot #26 (broker status 17:45, Mac laeuft wieder). KI-Ausverkauf: ENR -8,6 % heute (Tagesverlierer DAX), VVSM -15,62 % seit Kauf (-15 %-Analyseschwelle unterschritten), -20 %-Regel unberuehrt. Ausserplanmaessige Runde 3 einberufen (runden/2026-10-22_runde-3.md) |
