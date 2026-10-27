@@ -1,17 +1,22 @@
 # Gemeinsames Depot
 
+
 Start: 08.10.2026, 10.000,00 EUR Cash. Gebühr 0,3 % pro Trade. Kurse: siehe README.
 
+
 ## Stand
+
 
 | Posten | Wert |
 |---|---|
 | Cash | 2.728,25 EUR |
 | Positionen | 7 (Einstandswert 7.300,00 EUR) |
-| Gesamtwert zu Einstandskursen | 9.978,25 EUR (10.000 minus 21,75 Gebühren). Marktwert 26.10.: 9.656,30 EUR (-3,44 %, broker status Snapshot #34) |
-| Stand | 26.10.2026, 17:45 Uhr (broker status, Snapshot #34). Quelle der Wahrheit ist ledger/ledger.jsonl. Alle 7 Startkäufe gebucht. |
+| Gesamtwert zu Einstandskursen | 9.978,25 EUR (10.000 minus 21,75 Gebühren). Marktwert 27.10.: 9.754,12 EUR (-2,46 %, broker status Snapshot #36) |
+| Stand | 27.10.2026, 17:45 Uhr (broker status, Snapshot #36). Quelle der Wahrheit ist ledger/ledger.jsonl. Alle 7 Startkäufe gebucht. |
+
 
 ## Positionen
+
 
 | Titel | Stück | Einstandskurs | Einstandswert |
 |---|---|---|---|
@@ -23,7 +28,9 @@ Start: 08.10.2026, 10.000,00 EUR Cash. Gebühr 0,3 % pro Trade. Kurse: siehe REA
 | Microsoft (MSFT) | 1,378038 | 471,68 | 650,00 |
 | Alphabet (GOOGL) | 2,061233 | 315,35 | 650,00 |
 
+
 ## Trades
+
 
 | Datum | Titel | Kauf/Verkauf | Stück | Kurs | Kurswert | Gebühr (0,3 %) | Cash danach | Begründung |
 |---|---|---|---|---|---|---|---|---|
@@ -35,7 +42,9 @@ Start: 08.10.2026, 10.000,00 EUR Cash. Gebühr 0,3 % pro Trade. Kurse: siehe REA
 | 09.10.2026 | Microsoft (MSFT) | Kauf | 1,378038 | 471,68 | 650,00 | 1,95 | 3.380,20 | Startliste Runde 1 |
 | 09.10.2026 | Alphabet (GOOGL) | Kauf | 2,061233 | 315,35 | 650,00 | 1,95 | 2.728,25 | Startliste Runde 1 |
 
+
 ## Bewertungslog
+
 
 | Datum | Cash | Positionswert | Gesamtwert | Anmerkung |
 |---|---|---|---|---|
@@ -46,9 +55,4 @@ Start: 08.10.2026, 10.000,00 EUR Cash. Gebühr 0,3 % pro Trade. Kurse: siehe REA
 | 2026-10-20 | 2.728,25 | ca. 7.016,99 | ca. 9.745,24 | Schaetzwert aus Web-Kursen (Mac gesperrt, kein broker status). VVSM.DE -13,36 % (heute -3,4 %, Sektor-Ausverkauf KI-Zweifel), -20 %-Regel unberuehrt |
 | 2026-10-21 | 2.728,25 | ca. 7.046,79 | ca. 9.775,04 | Schaetzwert aus Web-Kursen (kein broker status). VVSM.DE -11,57 % seit Kauf (heute +0,9 %, Sektor stabilisiert), -20 %-Regel unberuehrt. DAX +1,35 % ueber 25.600 |
 | 2026-10-22 | 2.728,25 | 6.904,41 | 9.632,66 | Snapshot #26 (broker status 17:45, Mac laeuft wieder). KI-Ausverkauf: ENR -8,6 % heute (Tagesverlierer DAX), VVSM -15,62 % seit Kauf (-15 %-Analyseschwelle unterschritten), -20 %-Regel unberuehrt. Ausserplanmaessige Runde 3 einberufen (runden/2026-10-22_runde-3.md) |
-| 2026-10-23 | 2.728,25 | 6.895,98 | 9.624,23 | Snapshot #28 (broker status 17:45). Beruhigung: VVSM +0,5 % (87,08), ENR -2,6 % Xetra (117,91), -20 %-Regel unberuehrt (Abstand VVSM 5,7 %, ENR 3,6 %). Woche -1,3 %, keine Runde noetig |
-| 2026-10-25 | 2.728,25 | 6.885,76 | 9.614,01 | Snapshot #32 (broker status 17:45; Aktien Freitag-Schluss, BTC live). Woche -1,37 %. Schwellen unverletzt (VVSM 87,22 vs 82,08; ENR 118,68 vs 113,70). Wochenrunde 4 laeuft, Claude-Stimme ausstehend (Weekly-Limit bis 27.10. 16:00) |
-| 2026-10-26 | 2.728,25 | 6.928,05 | 9.656,30 | Snapshot #34 (broker status 17:45, alle Kurse live). Erholungstag: ENR +4,3 % (123,78), VVSM +2,4 % (89,30), SOX +3 %, DAX +0,9 % (ifo 90,2). -20 %-Regel unberuehrt (Abstand VVSM 8,8 %, ENR 8,9 %), keine Runde noetig |
-
-
-
+| 2026-10-27 | 2.728,25 | 7.025,87 | 9.754,12 | Snapshot #36 (broker status 17:45, alle Kurse live). Zweiter Erholungstag vor der Fed: ENR +3,6 % (128,24), VVSM +3,4 % (92,35), DAX +0,71 % (25.590,77), S&P 500 1,3 % unterm Allzeithoch. -20 %-Regel unberuehrt (Abstand VVSM 12,5 %, ENR 12,8 %), keine Runde noetig. Sonderrunde Mi 22:35 nach Fed/Alphabet/MSFT |
