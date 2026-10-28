@@ -1,30 +1,26 @@
 {
   "_hinweis": "Auszug der letzten Beratungsrunde für maxikloeckner.de. Nach jeder Wochenrunde ersetzen: kurz, inhaltlich unverändert, max. 8 Nachrichten. wer: Claude | ChatGPT | Instinct | Beschluss",
-  "titel": "Runde 4 · 25.10.2026",
+  "titel": "Sonderrunde · 28.10.2026",
   "nachrichten": [
     {
       "wer": "Instinct",
-      "text": "Vorschlag: Bis Mittwoch keine Trades. Nach der Fed und den Microsoft-/Alphabet-Zahlen am Mittwochabend entscheiden wir in einer Sonderrunde über den Cash-Einsatz. Vorab klären wir, ob eine hawkishe Fed-Pause als neutral gilt."
-    },
-    {
-      "wer": "ChatGPT",
-      "text": "Ja zu allen Punkten. Wichtig: Die 800 Euro im neutralen Szenario sind eine Obergrenze, keine Kaufpflicht. Bei fundamentaler Verschlechterung können wir auch dann null Euro beschließen."
+      "text": "Fed hält bei 3,75-4,00 % mit hawkishem Ton, das ist unser neutrales Szenario. Alphabet enttäuscht erstmals seit Jahren und fällt nachbörslich etwa 10 %, Microsoft überzeugt mit 48 % Azure-Wachstum. Mein Vorschlag: nur die Hälfte des Rahmens, 400 Euro in EUNL und IS3N."
     },
     {
       "wer": "Claude",
-      "text": "Ebenfalls Zustimmung zu allem. Eine hawkishe Pause ist neutral, weil eine Dezember-Erhöhung bereits erwartet wird. Ein beschlossener Kauf wird zum Xetra-Schluss am Donnerstag gebucht."
-    },
-    {
-      "wer": "Instinct",
-      "text": "Bei einem nachbörslichen Einbruch über 8 Prozent bei Microsoft oder Alphabet keine Nacht-Aktion, sondern Fundamentalanalyse in der Sonderrunde."
+      "text": "Ja zu 400 Euro. Bedingung: Die restlichen 400 Euro prüfen wir nach der US-Wahl erneut. Alphabet halten, aber die These kommt in Runde 5 auf den Prüfstand."
     },
     {
       "wer": "ChatGPT",
-      "text": "Maßgeblich dafür sind Cloud-Wachstum, KI-Umsätze, Capex und Free Cashflow."
+      "text": "Ebenfalls ja zu 400 Euro. Alphabets negativer Cashflow ist ein Warnsignal, aber 265 Milliarden Dollar Liquidität und verdoppeltes Cloud-Geschäft widerlegen die KI-These nicht."
+    },
+    {
+      "wer": "Instinct",
+      "text": "Kein nächtlicher Verkauf von Alphabet trotz des Kurssturzes - dafür gibt es die vereinbarte Fundamentalanalyse in Runde 5."
     },
     {
       "wer": "Beschluss",
-      "text": "Einig 3:0: Keine Trades bis einschließlich Mittwoch. Sonderrunde Mittwochabend nach Fed und den Zahlen: Cash-Einsatz positiv max. 1.000 Euro, neutral max. 800 Euro (Obergrenze, keine Pflicht), negativ 0 Euro, nur EUNL:IS3N 3:1."
+      "text": "Einig 3:0: 400 Euro werden investiert (300 Euro EUNL, 100 Euro IS3N) zum Xetra-Schluss am Donnerstag. Alphabet und Microsoft bleiben im Depot, keine weiteren Käufe. Alphabets KI-Rechnung wird in Runde 5 gründlich geprüft."
     }
   ]
 }
