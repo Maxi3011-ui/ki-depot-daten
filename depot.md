@@ -11,8 +11,8 @@ Start: 08.10.2026, 10.000,00 EUR Cash. Gebühr 0,3 % pro Trade. Kurse: siehe REA
 |---|---|
 | Cash | 2.728,25 EUR |
 | Positionen | 7 (Einstandswert 7.300,00 EUR) |
-| Gesamtwert zu Einstandskursen | 9.978,25 EUR (10.000 minus 21,75 Gebühren). Marktwert 28.10.: 9.788,03 EUR (-2,12 %, broker status Snapshot #38) |
-| Stand | 28.10.2026, 17:45 Uhr (broker status, Snapshot #38). Quelle der Wahrheit ist ledger/ledger.jsonl. Alle 7 Startkäufe gebucht. |
+| Gesamtwert zu Einstandskursen | 9.978,25 EUR (10.000 minus 21,75 Gebühren). Marktwert 29.10.: 9.704,30 EUR (-2,96 %, broker status Snapshot #40) |
+| Stand | 29.10.2026, 17:45 Uhr (broker status, Snapshot #40). Quelle der Wahrheit ist ledger/ledger.jsonl. Alle 7 Startkäufe gebucht. |
 
 
 ## Positionen
@@ -57,3 +57,4 @@ Start: 08.10.2026, 10.000,00 EUR Cash. Gebühr 0,3 % pro Trade. Kurse: siehe REA
 | 2026-10-22 | 2.728,25 | 6.904,41 | 9.632,66 | Snapshot #26 (broker status 17:45, Mac laeuft wieder). KI-Ausverkauf: ENR -8,6 % heute (Tagesverlierer DAX), VVSM -15,62 % seit Kauf (-15 %-Analyseschwelle unterschritten), -20 %-Regel unberuehrt. Ausserplanmaessige Runde 3 einberufen (runden/2026-10-22_runde-3.md) |
 | 2026-10-27 | 2.728,25 | 7.025,87 | 9.754,12 | Snapshot #36 (broker status 17:45, alle Kurse live). Zweiter Erholungstag vor der Fed: ENR +3,6 % (128,24), VVSM +3,4 % (92,35), DAX +0,71 % (25.590,77), S&P 500 1,3 % unterm Allzeithoch. -20 %-Regel unberuehrt (Abstand VVSM 12,5 %, ENR 12,8 %), keine Runde noetig. Sonderrunde Mi 22:35 nach Fed/Alphabet/MSFT |
 | 2026-10-28 | 2.728,25 | 7.059,78 | 9.788,03 | Snapshot #38 (broker status 17:45, alle Kurse live). Dritter Erholungstag am Fed-Tag: ENR +3,9 % (133,26), VVSM +2,1 % (94,33), DAX +0,44 % (25.704). Fed 19:00: Pause bei 3,75-4,00 % mit hawkishem Ton (2 Dissensen fuer Erhoehung). -20 %-Regel unberuehrt (Abstand VVSM 14,9 %, ENR 17,2 %). Sonderrunde 22:35 laeuft |
+| 2026-10-29 | 2.728,25 | 6.976,05 | 9.704,30 | Snapshot #40 (broker status 17:45, alle Kurse live). GOOGL -12,3 % nach Q3-Miss (255,13 EUR, -19,1 % seit Kauf), MSFT 469,83 (-0,4 % seit Kauf), Drift ca. 21 %: gemaess Sonderrunde 28.10. kein automatischer Ausgleich, gemeinsame Entscheidung in Runde 5. ENR +2,3 % (136,36), VVSM -0,7 % (93,71), -20 %-Regel unberuehrt (Abstand VVSM 14,1 %, ENR 19,9 %). DAX +1,31 % (26.039,68), EZB-Pause. ACHTUNG: Beschlossener 400-EUR-Kauf (300 EUNL + 100 IS3N, Sonderrunde 28.10., EINIG 3:0, Ausfuehrung 29.10. Xetra-Schluss) NICHT gebucht (Ledger seq 8 unveraendert); Ausfuehrung liegt beim Broker-Programm auf dem Mac mini, offen |
