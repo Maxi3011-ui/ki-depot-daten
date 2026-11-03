@@ -11,8 +11,8 @@ Start: 08.10.2026, 10.000,00 EUR Cash. Gebühr 0,3 % pro Trade. Kurse: siehe REA
 |---|---|
 | Cash | 2.327,05 EUR |
 | Positionen | 9 (Einstandswert 7.700,00 EUR) |
-| Gesamtwert zu Einstandskursen | 10.027,05 EUR (10.000 minus 22,95 Gebühren). Marktwert 02.11.: 9.528,00 EUR (-4,72 %, Snapshot #48 17:45) |
-| Stand | 02.11.2026, 17:45 Uhr (Snapshot #48, alle Kurse live). Quelle der Wahrheit ist ledger/ledger.jsonl. Alle 9 Käufe gebucht (inkl. Nachkäufe 30.10.), Ledger seq 10. |
+| Gesamtwert zu Einstandskursen | 10.027,05 EUR (10.000 minus 22,95 Gebühren). Marktwert 03.11.: 9.475,84 EUR (-5,24 %, Snapshot #50 17:45) |
+| Stand | 03.11.2026, 17:45 Uhr (Snapshot #50, alle Kurse live). Quelle der Wahrheit ist ledger/ledger.jsonl. Alle 9 Käufe gebucht (inkl. Nachkäufe 30.10.), Ledger seq 10. |
 
 
 ## Positionen
@@ -63,3 +63,5 @@ Start: 08.10.2026, 10.000,00 EUR Cash. Gebühr 0,3 % pro Trade. Kurse: siehe REA
 | 2026-10-30 | 2.327,05 | 7.178,47 | 9.505,52 | Snapshot #42 (broker status 17:45, alle Kurse live). Nachkaeufe gebucht (300 EUNL + 100 IS3N, Sonderrunde 28.10., Ausfuehrung nachgeholt) - Buchungsluecke vom 29.10. geschlossen, Ledger seq 10. Intel-Crash (-29 %) nach Q4-Ausblick + Amazon-Miss: sektorweiter Halbleiter-Ausverkauf, VVSM heute -8,05 % (86,13) = >8 %-Regel, ausserplanmaessige Sonderrunde einberufen. ENR -7,1 % (126,62). GOOGL -20,29 % seit Einstand, Runde-5-Agenda So. -20 %-Regel unberuehrt (Abstand VVSM 4,9 %, ENR 11,4 %). BTC -2,1 % (Binance-Hack). DAX -0,85 % (25.818) |
 | 2026-11-01 | 2.327,05 | 7.186,40 | 9.513,45 | broker status 18:30 (Sonntag, nur BTC live; Aktien/ETFs = Schlusskurse Fr 30.10.). GOOGL -20,76 % seit Einstand, VVSM -16,25 % (4,8 % ueber 82,08), ENR -10,96 % (10,4 % ueber 113,70), MSFT/GOOGL-Drift 24,7 % (Basis: hoeherer/niedrigerer Positionswert). Runde 5 tagt (runden/2026-11-01_runde-5.md), keine Trades |
 | 2026-11-02 | 2.327,05 | 7.200,95 | 9.528,00 | Snapshot #48 (broker status 17:45, alle Kurse live). Ruhiger Tag vor den US-Midterms: ENR +2,8 % (130,42; Rebound vor Zahlen 11.11., GE Vernova stark), GOOGL +1,3 % (252,94 EUR, wieder unter 20 % im Minus), VVSM -0,5 % (85,75; Abstand zu 82,08: 4,3 %), -20 %-Regel unberuehrt, keine Runde noetig. telefon-bruecke weiter defekt, Runde 5 offen (ChatGPT-Votum fehlt) |
+| 2026-11-03 | 2.327,05 | 7.148,79 | 9.475,84 | Snapshot #50 (broker status 17:45, alle Kurse live). Wahl-Tag in den USA, Zurueckhaltung: DAX -0,4 % (25.865), S&P 500 +0,4 % (7.570, 10:26 ET; Negativ-Schwelle 7.276,47 weit unterschritten). GOOGL -1,5 % (249,17 EUR, wieder ueber 20 % im Minus; Pruefpunkt ~221 unverletzt), VVSM -0,5 % (85,29; Abstand zu 82,08: 3,9 %), ENR +0,1 % (130,54; Abstand 14,8 %), MSFT -1,5 % (461,52). -20 %-Regel unberuehrt, keine Runde noetig. AMD-Zahlen erst 23:00 CET. Runde 5 offen (ChatGPT-Votum fehlt, Bruecken unveraendert) |
+
