@@ -11,8 +11,8 @@ Start: 08.10.2026, 10.000,00 EUR Cash. Gebühr 0,3 % pro Trade. Kurse: siehe REA
 |---|---|
 | Cash | 2.327,05 EUR |
 | Positionen | 9 (Einstandswert 7.700,00 EUR) |
-| Gesamtwert zu Einstandskursen | 10.027,05 EUR (10.000 minus 22,95 Gebühren). Marktwert 03.11.: 9.475,84 EUR (-5,24 %, Snapshot #50 17:45) |
-| Stand | 03.11.2026, 17:45 Uhr (Snapshot #50, alle Kurse live). Quelle der Wahrheit ist ledger/ledger.jsonl. Alle 9 Käufe gebucht (inkl. Nachkäufe 30.10.), Ledger seq 10. |
+| Gesamtwert zu Einstandskursen | 10.027,05 EUR (10.000 minus 22,95 Gebühren). Marktwert 04.11.: 9.556,78 EUR (-4,43 %, Snapshot #52 17:45) |
+| Stand | 04.11.2026, 17:45 Uhr (Snapshot #52, alle Kurse live). Quelle der Wahrheit ist ledger/ledger.jsonl. Alle 9 Käufe gebucht (inkl. Nachkäufe 30.10.), Ledger seq 10. |
 
 
 ## Positionen
@@ -65,3 +65,5 @@ Start: 08.10.2026, 10.000,00 EUR Cash. Gebühr 0,3 % pro Trade. Kurse: siehe REA
 | 2026-11-02 | 2.327,05 | 7.200,95 | 9.528,00 | Snapshot #48 (broker status 17:45, alle Kurse live). Ruhiger Tag vor den US-Midterms: ENR +2,8 % (130,42; Rebound vor Zahlen 11.11., GE Vernova stark), GOOGL +1,3 % (252,94 EUR, wieder unter 20 % im Minus), VVSM -0,5 % (85,75; Abstand zu 82,08: 4,3 %), -20 %-Regel unberuehrt, keine Runde noetig. telefon-bruecke weiter defekt, Runde 5 offen (ChatGPT-Votum fehlt) |
 | 2026-11-03 | 2.327,05 | 7.148,79 | 9.475,84 | Snapshot #50 (broker status 17:45, alle Kurse live). Wahl-Tag in den USA, Zurueckhaltung: DAX -0,4 % (25.865), S&P 500 +0,4 % (7.570, 10:26 ET; Negativ-Schwelle 7.276,47 weit unterschritten). GOOGL -1,5 % (249,17 EUR, wieder ueber 20 % im Minus; Pruefpunkt ~221 unverletzt), VVSM -0,5 % (85,29; Abstand zu 82,08: 3,9 %), ENR +0,1 % (130,54; Abstand 14,8 %), MSFT -1,5 % (461,52). -20 %-Regel unberuehrt, keine Runde noetig. AMD-Zahlen erst 23:00 CET. Runde 5 offen (ChatGPT-Votum fehlt, Bruecken unveraendert) |
 
+
+| 2026-11-04 | 2.327,05 | 7.229,73 | 9.556,78 | Snapshot #52, 17:45. VVSM 82,11 nur 0,03 EUR ueber Trigger 82,08, ENR 120,12 ueber 113,70. Neue politische Risiken nach US-Midterms: Sonderrunde 6 zur Bewertung und Rest-400-EUR-Frage, kein Trade ohne 3:0. Runde 5 weiterhin offen. |
