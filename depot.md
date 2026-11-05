@@ -11,8 +11,8 @@ Start: 08.10.2026, 10.000,00 EUR Cash. Gebühr 0,3 % pro Trade. Kurse: siehe REA
 |---|---|
 | Cash | 2.327,05 EUR |
 | Positionen | 9 (Einstandswert 7.700,00 EUR) |
-| Gesamtwert zu Einstandskursen | 10.027,05 EUR (10.000 minus 22,95 Gebühren). Marktwert 04.11.: 9.556,78 EUR (-4,43 %, Snapshot #52 17:45) |
-| Stand | 04.11.2026, 17:45 Uhr (Snapshot #52, alle Kurse live). Quelle der Wahrheit ist ledger/ledger.jsonl. Alle 9 Käufe gebucht (inkl. Nachkäufe 30.10.), Ledger seq 10. |
+| Gesamtwert zu Einstandskursen | 10.027,05 EUR (10.000 minus 22,95 Gebühren). Marktwert 05.11.: 9.301,43 EUR (-6,99 %, Snapshot #54 17:45) |
+| Stand | 05.11.2026, 17:45 Uhr (Snapshot #54, alle Kurse live). Quelle der Wahrheit ist ledger/ledger.jsonl. Alle 9 Käufe gebucht (inkl. Nachkäufe 30.10.), Ledger seq 10. |
 
 
 ## Positionen
@@ -67,3 +67,5 @@ Start: 08.10.2026, 10.000,00 EUR Cash. Gebühr 0,3 % pro Trade. Kurse: siehe REA
 
 
 | 2026-11-04 | 2.327,05 | 7.229,73 | 9.556,78 | Snapshot #52, 17:45. VVSM 82,11 nur 0,03 EUR ueber Trigger 82,08, ENR 120,12 ueber 113,70. Neue politische Risiken nach US-Midterms: Sonderrunde 6 zur Bewertung und Rest-400-EUR-Frage, kein Trade ohne 3:0. Runde 5 weiterhin offen. |
+
+| 2026-11-05 | 2.327,05 | 6.974,38 | 9.301,43 | Snapshot54 17:45. Pflichtschwellen VVSM75,38 <=82,08 und ENR113,36 <=113,70 gerissen; VVSM -8,20 % gegen Vortags-Snapshot. Sonderrunde7 offen, beide Fremdvoten blockiert, keine Trades oder Rest400-EUR-Nachkaeufe. Cash25,02 %. |
