@@ -10,8 +10,8 @@ Start: 08.10.2026, 10.000,00 EUR Cash. Gebühr 0,3 % pro Trade. Kurse: siehe REA
 | Posten | Wert |
 |---|---|
 | Cash | 2.327,05 EUR |
-| Positionen | 9 (Einstandswert 7.700,00 EUR) |
-| Gesamtwert zu Einstandskursen | 10.027,05 EUR (10.000 minus 22,95 Gebühren). Marktwert 06.11.: 9.328,79 EUR (-6,71 %, Snapshot #56 17:45) |
+| Gehaltene Titel | 7 (aus 9 Kaeufen; Kaufkurswert ohne Gebuehren 7.650,00 EUR) |
+| Gesamtwert zu Einstandskursen | 9.977,05 EUR (2.327,05 Cash + 7.650,00 Kaufkurswert = 10.000,00 minus 22,95 Gebuehren). Marktwert 06.11.: 9.328,79 EUR (-6,71 %, Snapshot #56 17:45) |
 | Stand | 06.11.2026, 17:45 Uhr (Snapshot #56, alle Kurse live). Quelle der Wahrheit ist ledger/ledger.jsonl. Alle 9 Käufe gebucht (inkl. Nachkäufe 30.10.), Ledger seq 10. |
 
 
@@ -51,7 +51,7 @@ Start: 08.10.2026, 10.000,00 EUR Cash. Gebühr 0,3 % pro Trade. Kurse: siehe REA
 | Datum | Cash | Positionswert | Gesamtwert | Anmerkung |
 |---|---|---|---|---|
 | 2026-10-08 | 10.000,00 | 0,00 | 10.000,00 | Start |
-| 2026-10-09 | 2.728,25 | 7.300,00 | 9.978,25 | 7 Käufe gebucht, Bewertung zu Einstandskursen. Marktwert 15:36 laut Broker 10.005,79 |
+| 2026-10-09 | 2.728,25 | 7.250,00 | 9.978,25 | 7 Käufe gebucht, Bewertung zu Einstandskursen. Marktwert 15:36 laut Broker 10.005,79 |
 | 2026-10-18 | 2.728,25 | 7.019,64 | 9.747,89 | Wochenwert laut broker status 18:29. Woche -2,51 %, alle 7 Positionen im Minus, VVSM.DE -12,59 % seit Kauf |
 | 2026-10-19 | 2.728,25 | 7.070,35 | 9.798,60 | Snapshot #20 (broker status 17:45). VVSM.DE -10,76 % seit Kauf (naeher an -20 %), kein Handlungsbedarf |
 | 2026-10-20 | 2.728,25 | ca. 7.016,99 | ca. 9.745,24 | Schaetzwert aus Web-Kursen (Mac gesperrt, kein broker status). VVSM.DE -13,36 % (heute -3,4 %, Sektor-Ausverkauf KI-Zweifel), -20 %-Regel unberuehrt |
@@ -64,10 +64,10 @@ Start: 08.10.2026, 10.000,00 EUR Cash. Gebühr 0,3 % pro Trade. Kurse: siehe REA
 | 2026-11-01 | 2.327,05 | 7.186,40 | 9.513,45 | broker status 18:30 (Sonntag, nur BTC live; Aktien/ETFs = Schlusskurse Fr 30.10.). GOOGL -20,76 % seit Einstand, VVSM -16,25 % (4,8 % ueber 82,08), ENR -10,96 % (10,4 % ueber 113,70), MSFT/GOOGL-Drift 24,7 % (Basis: hoeherer/niedrigerer Positionswert). Runde 5 tagt (runden/2026-11-01_runde-5.md), keine Trades |
 | 2026-11-02 | 2.327,05 | 7.200,95 | 9.528,00 | Snapshot #48 (broker status 17:45, alle Kurse live). Ruhiger Tag vor den US-Midterms: ENR +2,8 % (130,42; Rebound vor Zahlen 11.11., GE Vernova stark), GOOGL +1,3 % (252,94 EUR, wieder unter 20 % im Minus), VVSM -0,5 % (85,75; Abstand zu 82,08: 4,3 %), -20 %-Regel unberuehrt, keine Runde noetig. telefon-bruecke weiter defekt, Runde 5 offen (ChatGPT-Votum fehlt) |
 | 2026-11-03 | 2.327,05 | 7.148,79 | 9.475,84 | Snapshot #50 (broker status 17:45, alle Kurse live). Wahl-Tag in den USA, Zurueckhaltung: DAX -0,4 % (25.865), S&P 500 +0,4 % (7.570, 10:26 ET; Negativ-Schwelle 7.276,47 weit unterschritten). GOOGL -1,5 % (249,17 EUR, wieder ueber 20 % im Minus; Pruefpunkt ~221 unverletzt), VVSM -0,5 % (85,29; Abstand zu 82,08: 3,9 %), ENR +0,1 % (130,54; Abstand 14,8 %), MSFT -1,5 % (461,52). -20 %-Regel unberuehrt, keine Runde noetig. AMD-Zahlen erst 23:00 CET. Runde 5 offen (ChatGPT-Votum fehlt, Bruecken unveraendert) |
-
-
 | 2026-11-04 | 2.327,05 | 7.229,73 | 9.556,78 | Snapshot #52, 17:45. VVSM 82,11 nur 0,03 EUR ueber Trigger 82,08, ENR 120,12 ueber 113,70. Neue politische Risiken nach US-Midterms: Sonderrunde 6 zur Bewertung und Rest-400-EUR-Frage, kein Trade ohne 3:0. Runde 5 weiterhin offen. |
-
 | 2026-11-05 | 2.327,05 | 6.974,38 | 9.301,43 | Snapshot54 17:45. Pflichtschwellen VVSM75,38 <=82,08 und ENR113,36 <=113,70 gerissen; VVSM -8,20 % gegen Vortags-Snapshot. Sonderrunde7 offen, beide Fremdvoten blockiert, keine Trades oder Rest400-EUR-Nachkaeufe. Cash25,02 %. |
+| 2026-11-06 | 2.327,05 | 7.001,74 | 9.328,79 |Snapshot56 17:45. VVSM76,17 bleibt unter82,08, ENR118,46 wieder ueber113,70. Pflichtberatung Runde7 fortgesetzt, beide Fremdvoten weiterhin blockiert. Keine Trades. Cash24,94%.|
 
-|2026-11-06|2.327,05|7001.74|9.328,79|Snapshot56 17:45. VVSM76,17 bleibt unter82,08, ENR118,46 wieder ueber113,70. Pflichtberatung Runde7 fortgesetzt, beide Fremdvoten weiterhin blockiert. Keine Trades. Cash24,94%.|
+## Darstellungsabgleich 06.11.2026
+
+Mit ledger/ledger.jsonl seq1-10 und Snapshot56 abgeglichen: 9 Kaufbuchungen ergeben 7 gehaltene Titel. Summe Kurswerte7.650,00 EUR, Gebuehren22,95 EUR, Cash2.327,05 EUR. Cash plus Kaufkurswerte ohne Gebuehren =9.977,05 EUR. Die bisherigen Stand-Angaben9 Positionen,7.700,00 und10.027,05 waren Darstellungs-/Rechenfehler. Historischer Kaufkurswert09.10. auf7.250,00 korrigiert (damals7 Kaeufe,21,75 EUR Gebuehren); dessen Gesamt9.978,25 war bereits richtig. Einzelkaeufe, Stueckzahlen, Ledger, Regeln und Marktwerte unveraendert.
