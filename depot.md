@@ -67,9 +67,8 @@ Start: 08.10.2026, 10.000,00 EUR Cash. Gebühr 0,3 % pro Trade. Kurse: siehe REA
 | 2026-11-04 | 2.327,05 | 7.229,73 | 9.556,78 | Snapshot #52, 17:45. VVSM 82,11 nur 0,03 EUR ueber Trigger 82,08, ENR 120,12 ueber 113,70. Neue politische Risiken nach US-Midterms: Sonderrunde 6 zur Bewertung und Rest-400-EUR-Frage, kein Trade ohne 3:0. Runde 5 weiterhin offen. |
 | 2026-11-05 | 2.327,05 | 6.974,38 | 9.301,43 | Snapshot54 17:45. Pflichtschwellen VVSM75,38 <=82,08 und ENR113,36 <=113,70 gerissen; VVSM -8,20 % gegen Vortags-Snapshot. Sonderrunde7 offen, beide Fremdvoten blockiert, keine Trades oder Rest400-EUR-Nachkaeufe. Cash25,02 %. |
 | 2026-11-06 | 2.327,05 | 7.001,74 | 9.328,79 |Snapshot56 17:45. VVSM76,17 bleibt unter82,08, ENR118,46 wieder ueber113,70. Pflichtberatung Runde7 fortgesetzt, beide Fremdvoten weiterhin blockiert. Keine Trades. Cash24,94%.|
+|2026-11-08|2.327,05|7.000,58|9.327,63|Snapshot60 17:45. Aktien/FX stale Freitag, BTC live. VVSM76,38 unter82,08. Runde7 offen,beide Fremdvoten fehlen,keine Trades. Cash24,95%.|
 
 ## Darstellungsabgleich 06.11.2026
 
 Mit ledger/ledger.jsonl seq1-10 und Snapshot56 abgeglichen: 9 Kaufbuchungen ergeben 7 gehaltene Titel. Summe Kurswerte7.650,00 EUR, Gebuehren22,95 EUR, Cash2.327,05 EUR. Cash plus Kaufkurswerte ohne Gebuehren =9.977,05 EUR. Die bisherigen Stand-Angaben9 Positionen,7.700,00 und10.027,05 waren Darstellungs-/Rechenfehler. Historischer Kaufkurswert09.10. auf7.250,00 korrigiert (damals7 Kaeufe,21,75 EUR Gebuehren); dessen Gesamt9.978,25 war bereits richtig. Einzelkaeufe, Stueckzahlen, Ledger, Regeln und Marktwerte unveraendert.
-
-|2026-11-08|2.327,05|7.000,58|9.327,63|Snapshot60 17:45. Aktien/FX stale Freitag, BTC live. VVSM76,38 unter82,08. Runde7 offen,beide Fremdvoten fehlen,keine Trades. Cash24,95%.|
