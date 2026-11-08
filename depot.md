@@ -11,8 +11,8 @@ Start: 08.10.2026, 10.000,00 EUR Cash. Gebühr 0,3 % pro Trade. Kurse: siehe REA
 |---|---|
 | Cash | 2.327,05 EUR |
 | Gehaltene Titel | 7 (aus 9 Kaeufen; Kaufkurswert ohne Gebuehren 7.650,00 EUR) |
-| Gesamtwert zu Einstandskursen | 9.977,05 EUR (2.327,05 Cash + 7.650,00 Kaufkurswert = 10.000,00 minus 22,95 Gebuehren). Marktwert 06.11.: 9.328,79 EUR (-6,71 %, Snapshot #56 17:45) |
-| Stand | 06.11.2026, 17:45 Uhr (Snapshot #56, alle Kurse live). Quelle der Wahrheit ist ledger/ledger.jsonl. Alle 9 Käufe gebucht (inkl. Nachkäufe 30.10.), Ledger seq 10. |
+| Gesamtwert zu Einstandskursen | 9.977,05 EUR (2.327,05 Cash + 7.650,00 Kaufkurswert = 10.000,00 minus 22,95 Gebuehren). Marktwert 08.11.: 9.327,63 EUR (-6,72 %, Snapshot #60 17:45; Aktien/FX Freitagkurse, stale) |
+| Stand | 08.11.2026, 17:45 Uhr (Snapshot #60; BTC live, Aktien/FX stale vom06.11.). Quelle der Wahrheit ist ledger/ledger.jsonl. Alle 9 Käufe gebucht (inkl. Nachkäufe 30.10.), Ledger seq 10. |
 
 
 ## Positionen
@@ -71,3 +71,5 @@ Start: 08.10.2026, 10.000,00 EUR Cash. Gebühr 0,3 % pro Trade. Kurse: siehe REA
 ## Darstellungsabgleich 06.11.2026
 
 Mit ledger/ledger.jsonl seq1-10 und Snapshot56 abgeglichen: 9 Kaufbuchungen ergeben 7 gehaltene Titel. Summe Kurswerte7.650,00 EUR, Gebuehren22,95 EUR, Cash2.327,05 EUR. Cash plus Kaufkurswerte ohne Gebuehren =9.977,05 EUR. Die bisherigen Stand-Angaben9 Positionen,7.700,00 und10.027,05 waren Darstellungs-/Rechenfehler. Historischer Kaufkurswert09.10. auf7.250,00 korrigiert (damals7 Kaeufe,21,75 EUR Gebuehren); dessen Gesamt9.978,25 war bereits richtig. Einzelkaeufe, Stueckzahlen, Ledger, Regeln und Marktwerte unveraendert.
+
+|2026-11-08|2.327,05|7.000,58|9.327,63|Snapshot60 17:45. Aktien/FX stale Freitag, BTC live. VVSM76,38 unter82,08. Runde7 offen,beide Fremdvoten fehlen,keine Trades. Cash24,95%.|
