@@ -11,8 +11,8 @@ Start: 08.10.2026, 10.000,00 EUR Cash. Gebühr 0,3 % pro Trade. Kurse: siehe REA
 |---|---|
 | Cash | 2.327,05 EUR |
 | Gehaltene Titel | 7 (aus 9 Kaeufen; Kaufkurswert ohne Gebuehren 7.650,00 EUR) |
-| Gesamtwert zu Einstandskursen | 9.977,05 EUR (2.327,05 Cash + 7.650,00 Kaufkurswert = 10.000,00 minus 22,95 Gebuehren). Letzter bekannter Marktwert 09.11.: 9.408,93 EUR (Snapshot #63 22:15; Xetra stale). Marktwert 11.11. offen, weiterhin kein aktueller Snapshot beim Check 19:10 |
-| Stand | 11.11.2026, Check 19:10: Bewertungsdaten weiterhin nur bis 09.11.22:15 (Snapshot #63; Xetra stale); heutiger 17:45-Snapshot nicht enthalten. Keine heutigen Ausfuehrungskurse. Quelle der Wahrheit ist ledger/ledger.jsonl. Alle 9 Käufe gebucht (inkl. Nachkäufe 30.10.), Ledger seq 10. |
+| Gesamtwert zu Einstandskursen | 9.977,05 EUR (2.327,05 Cash + 7.650,00 Kaufkurswert = 10.000,00 minus 22,95 Gebuehren). Marktwert 12.11.17:45: 9.592,93 EUR (Snapshot65), seit Start -4,07%. |
+| Stand | 12.11.2026, Check19:10: Snapshot65 vom17:45:12CET, alle Preise vom Broker live markiert, Xetra-Marktzeit gegen17:29. Keine heutigen Ausfuehrungskurse. Ledger seq10, keine neuen Trades. Snapshot64 vom11.11.22:15 ebenfalls vorhanden; alte Bewertungsluecke ueberholt. |
 
 
 ## Positionen
@@ -71,6 +71,9 @@ Start: 08.10.2026, 10.000,00 EUR Cash. Gebühr 0,3 % pro Trade. Kurse: siehe REA
 |2026-11-09|2.327,05|7.089,02|9.416,07|Snapshot62 17:45. VVSM79,50 weiter unter82,08,ENR124,12 darueber. Runde7 offen,beide Fremdvoten unveraendert blockiert,keine Trades. Cash24,71%.|
 |2026-11-10|2.327,05 (Ledger)|offen|offen|Kein heutiger 17:45-Snapshot beim Check 19:10. Letzter Stand #63 vom 09.11., 22:15: Gesamt 9.408,93, Positionen 7.081,88, Xetra stale. Yahoo VVSM 80,38 am 10.11., 17:36, unter 82,08; ENR-Web 118,23/120,20 ueber 113,70, abweichende Zeitstaende. Runde 7 fortgesetzt, beide Fremdvoten unveraendert blockiert, keine Trades. Details auswertung/2026-11-10.md.|
 |2026-11-11|2.327,05 (Ledger)|offen|offen|Weiterhin kein neuer Snapshot beim Check 19:10, letzter #63 vom 09.11.22:15. Oeffentliche Yahoo-Schlussangaben VVSM 86,44 (+7,54%) und ENR 132,76 (+10,78%), beide ueber Beratungsschwellen, keine Brokerkurse. ENR-Jahreszahlen und >8%-Bewegung in offener Runde 7 beraten; Fremdvoten fehlen, keine Trades. Details auswertung/2026-11-11.md.|
+
+|2026-11-11 (nachgetragen12.11.)|2.327,05|7.263,68|9.590,73|Snapshot64 vom11.11.22:15:12CET jetzt vorhanden. Vorher offene Bewertung nachgetragen, keine Ursache/Reparaturbehauptung.|
+|2026-11-12|2.327,05|7.265,88|9.592,93|Snapshot65 17:45:12CET. VVSM86,54 >82,08,ENR133,20 >113,70. Cash24,26%,MSFT/GOOGL-Drift18,07%. NVIDIA-CEO-Wechsel primaer bestaetigt, offene Runde7 fortgesetzt. Fremdvoten unveraendert blockiert, keine Trades. Details auswertung/2026-11-12.md.|
 
 ## Darstellungsabgleich 06.11.2026
 
