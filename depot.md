@@ -11,8 +11,8 @@ Start: 08.10.2026, 10.000,00 EUR Cash. Gebühr 0,3 % pro Trade. Kurse: siehe REA
 |---|---|
 | Cash | 2.327,05 EUR |
 | Gehaltene Titel | 7 (aus 9 Kaeufen; Kaufkurswert ohne Gebuehren 7.650,00 EUR) |
-| Gesamtwert zu Einstandskursen | 9.977,05 EUR (2.327,05 Cash + 7.650,00 Kaufkurswert = 10.000,00 minus 22,95 Gebuehren). Marktwert 13.11.17:45: 9.463,40 EUR (Snapshot67), seit Start -5,37%. |
-| Stand | 13.11.2026, Check19:10: Snapshot67 vom17:45:13CET, Xetra-Marktzeit gegen17:30. VVSM81,39 wieder unter82,08; offene Pflichtberatung Runde7 fortgesetzt. Ledger seq10, keine Trades. Fremdvoten unveraendert blockiert, keine neue Anfrage/Reparatur. |
+| Gesamtwert zu Einstandskursen | 9.977,05 EUR (2.327,05 Cash + 7.650,00 Kaufkurswert = 10.000,00 minus 22,95 Gebuehren). Marktwert 15.11.17:45: 9.437,41 EUR (Snapshot71), seit Start -5,63%. |
+| Stand | 15.11.2026, Check18:30: Snapshot71 vom17:45:09CET, Aktien/FX Freitagstaende, BTC live. VVSM81,81 weiter unter82,08; offene Pflichtberatung Runde7 fortgesetzt. Ledger seq10, keine Trades. Fremdvoten unveraendert blockiert, keine neue Anfrage/Reparatur. |
 
 
 ## Positionen
@@ -76,6 +76,8 @@ Start: 08.10.2026, 10.000,00 EUR Cash. Gebühr 0,3 % pro Trade. Kurse: siehe REA
 |2026-11-12|2.327,05|7.265,88|9.592,93|Snapshot65 17:45:12CET. VVSM86,54 >82,08,ENR133,20 >113,70. Cash24,26%,MSFT/GOOGL-Drift18,07%. NVIDIA-CEO-Wechsel primaer bestaetigt, offene Runde7 fortgesetzt. Fremdvoten unveraendert blockiert, keine Trades. Details auswertung/2026-11-12.md.|
 
 |2026-11-13|2.327,05|7.136,35|9.463,40|Snapshot67 17:45:13CET. VVSM81,39 <=82,08 erneut Pflichtberatung; ENR131,40 >113,70. Cash24,59%,Drift18,95%. Offene Runde7 fortgesetzt, beide Fremdvoten blockiert. Keine Trades. Preisabweichung Yahoo-Seitenkopf/Historie dokumentiert, keine Ausfuehrungskurse festgelegt. Details auswertung/2026-11-13.md.|
+
+|2026-11-15|2.327,05|7.110,36|9.437,41|Snapshot71 17:45:09CET. Sonntag: Aktien/FX stale Freitag, BTC live58.849,10. VVSM81,81 <=82,08, Pflichtberatung Runde7 offen; ENR131,28 >113,70. Cash24,66%,Drift18,42%. Beide Fremdvoten unveraendert blockiert,keine Trades. NVDA-Herabstufungen und Anthropic-IPO als Wochenendthemen. Details auswertung/2026-11-15.md.|
 
 ## Darstellungsabgleich 06.11.2026
 
