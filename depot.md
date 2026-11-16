@@ -11,8 +11,8 @@ Start: 08.10.2026, 10.000,00 EUR Cash. Gebühr 0,3 % pro Trade. Kurse: siehe REA
 |---|---|
 | Cash | 2.327,05 EUR |
 | Gehaltene Titel | 7 (aus 9 Kaeufen; Kaufkurswert ohne Gebuehren 7.650,00 EUR) |
-| Gesamtwert zu Einstandskursen | 9.977,05 EUR (2.327,05 Cash + 7.650,00 Kaufkurswert = 10.000,00 minus 22,95 Gebuehren). Marktwert 15.11.17:45: 9.437,41 EUR (Snapshot71), seit Start -5,63%. |
-| Stand | 15.11.2026, Check18:30: Snapshot71 vom17:45:09CET, Aktien/FX Freitagstaende, BTC live. VVSM81,81 weiter unter82,08; offene Pflichtberatung Runde7 fortgesetzt. Ledger seq10, keine Trades. Fremdvoten unveraendert blockiert, keine neue Anfrage/Reparatur. |
+| Gesamtwert zu Einstandskursen | 9.977,05 EUR (2.327,05 Cash + 7.650,00 Kaufkurswert = 10.000,00 minus 22,95 Gebuehren). Marktwert 16.11.17:45: 9.377,63 EUR (Snapshot73), seit Start -6,22%. |
+| Stand | 16.11.2026, Check19:10: Snapshot73 vom17:45:12CET, alle Kurse live. VVSM79,79 weiter unter82,08; offene Pflichtberatung Runde7 fortgesetzt. BTC erstmals -20,07% seit Kauf, nicht regelrelevant. Ledger seq10, keine Trades. Fremdvoten unveraendert blockiert, keine neue Anfrage/Reparatur. |
 
 
 ## Positionen
@@ -78,6 +78,8 @@ Start: 08.10.2026, 10.000,00 EUR Cash. Gebühr 0,3 % pro Trade. Kurse: siehe REA
 |2026-11-13|2.327,05|7.136,35|9.463,40|Snapshot67 17:45:13CET. VVSM81,39 <=82,08 erneut Pflichtberatung; ENR131,40 >113,70. Cash24,59%,Drift18,95%. Offene Runde7 fortgesetzt, beide Fremdvoten blockiert. Keine Trades. Preisabweichung Yahoo-Seitenkopf/Historie dokumentiert, keine Ausfuehrungskurse festgelegt. Details auswertung/2026-11-13.md.|
 
 |2026-11-15|2.327,05|7.110,36|9.437,41|Snapshot71 17:45:09CET. Sonntag: Aktien/FX stale Freitag, BTC live58.849,10. VVSM81,81 <=82,08, Pflichtberatung Runde7 offen; ENR131,28 >113,70. Cash24,66%,Drift18,42%. Beide Fremdvoten unveraendert blockiert,keine Trades. NVDA-Herabstufungen und Anthropic-IPO als Wochenendthemen. Details auswertung/2026-11-15.md.|
+
+|2026-11-16|2.327,05|7.050,58|9.377,63|Snapshot73 17:45:12CET, alle Kurse live. VVSM79,79 <=82,08 (-22,23% seit Kauf), Pflichtberatung Runde7 fortgesetzt; ENR129,14 >113,70. BTC58.690,20 erstmals -20,07% seit Kauf, nicht Teil der VVSM/ENR-Regel. Cash24,81%,Drift17,87%. Halbleiter-Ausverkauf vor NVDA-Q3 17.11. Beide Fremdvoten blockiert, keine Trades. Details auswertung/2026-11-16.md.|
 
 ## Darstellungsabgleich 06.11.2026
 
