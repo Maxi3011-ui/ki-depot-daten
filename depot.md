@@ -11,8 +11,8 @@ Start: 08.10.2026, 10.000,00 EUR Cash. Gebühr 0,3 % pro Trade. Kurse: siehe REA
 |---|---|
 | Cash | 2.327,05 EUR |
 | Gehaltene Titel | 7 (aus 9 Kaeufen; Kaufkurswert ohne Gebuehren 7.650,00 EUR) |
-| Gesamtwert zu Einstandskursen | 9.977,05 EUR (2.327,05 Cash + 7.650,00 Kaufkurswert = 10.000,00 minus 22,95 Gebuehren). Marktwert 16.11.17:45: 9.377,63 EUR (Snapshot73), seit Start -6,22%. |
-| Stand | 16.11.2026, Check19:10: Snapshot73 vom17:45:12CET, alle Kurse live. VVSM79,79 weiter unter82,08; offene Pflichtberatung Runde7 fortgesetzt. BTC erstmals -20,07% seit Kauf, nicht regelrelevant. Ledger seq10, keine Trades. Fremdvoten unveraendert blockiert, keine neue Anfrage/Reparatur. |
+| Gesamtwert zu Einstandskursen | 9.977,05 EUR (2.327,05 Cash + 7.650,00 Kaufkurswert = 10.000,00 minus 22,95 Gebuehren). Marktwert 17.11.17:45: 9.199,30 EUR (Snapshot75), seit Start -8,01%. |
+| Stand | 17.11.2026, Check19:10: Snapshot75 vom17:45:14CET, alle Kurse live. VVSM77,22 weiter unter82,08; offene Pflichtberatung Runde7 fortgesetzt. Breiter Risk-off-Tag vor NVDA-Q3 heute 22:20CET. Ledger seq10, keine Trades. Fremdvoten unveraendert blockiert, keine neue Anfrage/Reparatur. |
 
 
 ## Positionen
@@ -80,6 +80,8 @@ Start: 08.10.2026, 10.000,00 EUR Cash. Gebühr 0,3 % pro Trade. Kurse: siehe REA
 |2026-11-15|2.327,05|7.110,36|9.437,41|Snapshot71 17:45:09CET. Sonntag: Aktien/FX stale Freitag, BTC live58.849,10. VVSM81,81 <=82,08, Pflichtberatung Runde7 offen; ENR131,28 >113,70. Cash24,66%,Drift18,42%. Beide Fremdvoten unveraendert blockiert,keine Trades. NVDA-Herabstufungen und Anthropic-IPO als Wochenendthemen. Details auswertung/2026-11-15.md.|
 
 |2026-11-16|2.327,05|7.050,58|9.377,63|Snapshot73 17:45:12CET, alle Kurse live. VVSM79,79 <=82,08 (-22,23% seit Kauf), Pflichtberatung Runde7 fortgesetzt; ENR129,14 >113,70. BTC58.690,20 erstmals -20,07% seit Kauf, nicht Teil der VVSM/ENR-Regel. Cash24,81%,Drift17,87%. Halbleiter-Ausverkauf vor NVDA-Q3 17.11. Beide Fremdvoten blockiert, keine Trades. Details auswertung/2026-11-16.md.|
+
+|2026-11-17|2.327,05|6.872,25|9.199,30|Snapshot75 17:45:14CET, alle Kurse live. Breiter Risk-off vor NVDA-Q3 heute 22:20CET: VVSM77,22 <=82,08 (-24,74% seit Kauf, Tag -3,22%), Pflichtberatung Runde7 fortgesetzt; ENR125,52 >113,70; MSFT Tag -5,29% (groesste Bewegung, unter 8%); BTC -21,15% seit Kauf, nicht regelrelevant. Cash25,30%,Drift15,77%. Beide Fremdvoten blockiert, keine Trades. Details auswertung/2026-11-17.md.|
 
 ## Darstellungsabgleich 06.11.2026
 
