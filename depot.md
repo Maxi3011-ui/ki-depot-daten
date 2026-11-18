@@ -11,8 +11,8 @@ Start: 08.10.2026, 10.000,00 EUR Cash. Gebühr 0,3 % pro Trade. Kurse: siehe REA
 |---|---|
 | Cash | 2.327,05 EUR |
 | Gehaltene Titel | 7 (aus 9 Kaeufen; Kaufkurswert ohne Gebuehren 7.650,00 EUR) |
-| Gesamtwert zu Einstandskursen | 9.977,05 EUR (2.327,05 Cash + 7.650,00 Kaufkurswert = 10.000,00 minus 22,95 Gebuehren). Marktwert 17.11.17:45: 9.199,30 EUR (Snapshot75), seit Start -8,01%. |
-| Stand | 17.11.2026, Check19:10: Snapshot75 vom17:45:14CET, alle Kurse live. VVSM77,22 weiter unter82,08; offene Pflichtberatung Runde7 fortgesetzt. Breiter Risk-off-Tag vor NVDA-Q3 heute 22:20CET. Ledger seq10, keine Trades. Fremdvoten unveraendert blockiert, keine neue Anfrage/Reparatur. |
+| Gesamtwert zu Einstandskursen | 9.977,05 EUR (2.327,05 Cash + 7.650,00 Kaufkurswert = 10.000,00 minus 22,95 Gebuehren). Marktwert 18.11.17:45: 9.198,01 EUR (Snapshot77), seit Start -8,02%. |
+| Stand | 18.11.2026, Check19:14: Snapshot77 vom17:45:12CET, alle Kurse live. VVSM78,03 weiter unter82,08; offene Pflichtberatung Runde7 fortgesetzt. Verhaltener Tag nach NVDA-Q3 (primaer geschlagen, Kursreaktion medial verpufft). Ledger seq10, keine Trades. Fremdvoten unveraendert blockiert, keine neue Anfrage/Reparatur. |
 
 
 ## Positionen
@@ -82,6 +82,7 @@ Start: 08.10.2026, 10.000,00 EUR Cash. Gebühr 0,3 % pro Trade. Kurse: siehe REA
 |2026-11-16|2.327,05|7.050,58|9.377,63|Snapshot73 17:45:12CET, alle Kurse live. VVSM79,79 <=82,08 (-22,23% seit Kauf), Pflichtberatung Runde7 fortgesetzt; ENR129,14 >113,70. BTC58.690,20 erstmals -20,07% seit Kauf, nicht Teil der VVSM/ENR-Regel. Cash24,81%,Drift17,87%. Halbleiter-Ausverkauf vor NVDA-Q3 17.11. Beide Fremdvoten blockiert, keine Trades. Details auswertung/2026-11-16.md.|
 
 |2026-11-17|2.327,05|6.872,25|9.199,30|Snapshot75 17:45:14CET, alle Kurse live. Breiter Risk-off vor NVDA-Q3 heute 22:20CET: VVSM77,22 <=82,08 (-24,74% seit Kauf, Tag -3,22%), Pflichtberatung Runde7 fortgesetzt; ENR125,52 >113,70; MSFT Tag -5,29% (groesste Bewegung, unter 8%); BTC -21,15% seit Kauf, nicht regelrelevant. Cash25,30%,Drift15,77%. Beide Fremdvoten blockiert, keine Trades. Details auswertung/2026-11-17.md.|
+|2026-11-18|2.327,05|6.870,96|9.198,01|Snapshot77 17:45:12CET, alle Kurse live. Verhaltener Tag nach NVDA-Q3: VVSM78,03 <=82,08 (-24,18% seit Kauf, Tag +1,05%), Pflichtberatung Runde7 fortgesetzt; ENR126,78 >113,70; MSFT Tag +1,38%, BTC Tag -1,73% (-22,74% seit Kauf, nicht regelrelevant). Keine >8%-Bewegung. Cash25,30%,Drift16,57%. Beide Fremdvoten blockiert, keine Trades. Details auswertung/2026-11-18.md.|
 
 ## Darstellungsabgleich 06.11.2026
 
